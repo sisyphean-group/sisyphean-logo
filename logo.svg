@@ -1,7 +1,9 @@
 <svg viewBox="0 0 1024 1024" width="1024" height="1024" fill="black" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="300" cy="300" r="250"/>
-  <path d="
-    M 50,974 724,50 974,50 300,974
-    Z
-  "/>
+  <g transform="translate(512 512) scale(0.72) translate(-512 -512)">
+    <circle cx="300" cy="300" r="250"/>
+    <path d="
+      M 50,974 724,50 974,50 300,974
+      Z
+    "/>
+  </g>
 </svg>
